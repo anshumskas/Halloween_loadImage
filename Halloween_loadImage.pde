@@ -1,4 +1,4 @@
-/* preload="Jhin_OriginalCentered.jpg"; */
+/*@pjs preload="Jhin_OriginalCentered.jpg"; */
 PImage img;
 
 
