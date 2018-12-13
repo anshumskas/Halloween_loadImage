@@ -10,7 +10,7 @@ void setup(){
 
 void draw()
 {
-  save("ANTHONY.Jhin.png");
+ 
 }
 
 void mouseDragged()
