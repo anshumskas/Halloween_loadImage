@@ -1,4 +1,6 @@
+/* preload="Jhin_OriginalCentered.jpg"; */
 PImage img;
+
 
 void setup(){
   size(600,600);
