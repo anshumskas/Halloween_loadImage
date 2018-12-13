@@ -1,16 +1,16 @@
 /*@pjs preload="Jhin_OriginalCentered.jpg"; */
-PImage img;
+PImage Jhin;
 
 
 void setup(){
   size(600,600);
-  img = loadImage ("Jhin_OriginalCentered.jpg");
-  image(img,0,0,width/1,height/1);
+  Jhin = loadImage ("Jhin_OriginalCentered.jpg");
+ 
 }
 
 void draw()
 {
- 
+  image(Jhin,0,0,width/1,height/1);
 }
 
 void mouseDragged()
